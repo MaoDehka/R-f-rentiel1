@@ -6,3 +6,5 @@ C:\Users\maoda\Desktop\BTS SIO2\Bloc 2\MERCY\Les collections\Collection\Collecti
 C:\Users\maoda\Desktop\BTS SIO2\Bloc 2\MERCY\Les collections\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
 C:\Users\maoda\Desktop\BTS\BTS SIO2\Bloc 2\MERCY\Collections\Collection\Collection\obj\Debug\Collection.csproj.AssemblyReference.cache
 C:\Users\maoda\Desktop\BTS\BTS SIO2\Bloc 2\MERCY\Collections\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+C:\Users\caron\OneDrive\Documents\GitHub\R-f-rentiel1\Collection\Collection\obj\Debug\Collection.csproj.AssemblyReference.cache
+C:\Users\caron\OneDrive\Documents\GitHub\R-f-rentiel1\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
