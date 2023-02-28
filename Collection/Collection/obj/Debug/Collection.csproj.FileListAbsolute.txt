@@ -1,0 +1,8 @@
+C:\Users\maoda\source\repos\Collection\Collection\obj\Debug\Collection.csproj.AssemblyReference.cache
+C:\Users\maoda\source\repos\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+C:\Users\maoda\Desktop\BTS SIO2\Bloc 1\Les collections\Collection\Collection\obj\Debug\Collection.csproj.AssemblyReference.cache
+C:\Users\maoda\Desktop\BTS SIO2\Bloc 1\Les collections\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+C:\Users\maoda\Desktop\BTS SIO2\Bloc 2\MERCY\Les collections\Collection\Collection\obj\Debug\Collection.csproj.AssemblyReference.cache
+C:\Users\maoda\Desktop\BTS SIO2\Bloc 2\MERCY\Les collections\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
+C:\Users\maoda\Desktop\BTS\BTS SIO2\Bloc 2\MERCY\Collections\Collection\Collection\obj\Debug\Collection.csproj.AssemblyReference.cache
+C:\Users\maoda\Desktop\BTS\BTS SIO2\Bloc 2\MERCY\Collections\Collection\Collection\obj\Debug\Collection.csproj.CoreCompileInputs.cache
